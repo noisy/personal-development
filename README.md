@@ -2,7 +2,7 @@
 
 ### General rule: no more than 5!
 
-* [ ] ![Progress](http://progressed.io/bar/56?) 263/466 pages - [Two Scoops of Django 1.8](http://twoscoopspress.org/products/two-scoops-of-django-1-8)
+* [ ] ![Progress](http://progressed.io/bar/72?) 337/466 pages - [Two Scoops of Django 1.8](http://twoscoopspress.org/products/two-scoops-of-django-1-8)
 * [ ] ![Progress](http://progressed.io/bar/15) 2/13 sections - [Building Web Applications with Django and AngularJS](https://thinkster.io/django-angularjs-tutorial/)
 * [ ] ![Progress](http://progressed.io/bar/12) 0,5/4 sections - [Staying sharp with Angular.js](https://www.codeschool.com/courses/staying-sharp-with-angular-js)
 * [ ] ![Progress](http://progressed.io/bar/4) 17/354 pages - [RESTful Web APIs](http://shop.oreilly.com/product/0636920028468.do)
@@ -10,6 +10,7 @@
 ## ToDo
 
 * [ ] [Getting Started with Django Rest Framework and AngularJS](http://blog.kevinastone.com/getting-started-with-django-rest-framework-and-angularjs.html)
+* [ ] [High Performance Django](https://highperformancedjango.com/)
 
 ## Done
 

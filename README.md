@@ -13,5 +13,5 @@
 
 ## Done
 
-* [x] 2015-08-15 - [Building and Testing Docker Containers](https://www.youtube.com/watch?v=SwSTCzxjFEs), 32 minutes
-* [x] 2015-08-14 - [A new model for Docker image distribution](https://www.youtube.com/watch?v=m8_shm2P9C8), 48 minutes
+* [x] 2015-08-15 - [Building and Testing Docker Containers](https://www.youtube.com/watch?v=SwSTCzxjFEs), 32 minutes - 2.5/5
+* [x] 2015-08-14 - [A new model for Docker image distribution](https://www.youtube.com/watch?v=m8_shm2P9C8), 48 minutes - 3.5/5

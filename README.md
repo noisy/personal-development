@@ -22,3 +22,8 @@
 
 * [x] 2015-08-15 - [Building and Testing Docker Containers](https://www.youtube.com/watch?v=SwSTCzxjFEs), 32 minutes - 2.5/5
 * [x] 2015-08-14 - [A new model for Docker image distribution](https://www.youtube.com/watch?v=m8_shm2P9C8), 48 minutes - 3.5/5
+* [x] 2015-11-06 - [Introduction to TypeScript (from http://www.typescriptlang.org/)](http://media.ch9.ms/ch9/c3e5/e5e02f2e-5962-48db-9ddd-85e27a4fc3e5/IntroducingTSAndersH_mid.mp4), 53 minutes - 4.5/5
+
+### Articles
+
+* [x] 2015-11-08 - [Angular 2 Template Syntax Demystified - Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html) - 4.5/5
